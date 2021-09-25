@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801665900707",
+    "project_id": "atomic-habits-tracker",
+    "storage_bucket": "atomic-habits-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801665900707:android:c37e74cbb41d921d0f5f16",
+        "android_client_info": {
+          "package_name": "com.vamsigutha.atomichabitstracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801665900707-e2bi6n8p4pcj2ucpl042fbrr8abd77hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAROFoh-RYnJQG16J3lAMVs4_12w1r3vr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801665900707-e2bi6n8p4pcj2ucpl042fbrr8abd77hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
